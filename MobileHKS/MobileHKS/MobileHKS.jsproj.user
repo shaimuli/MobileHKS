@@ -3,4 +3,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
     <DebuggerFlavor>RippleNexusS</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferenceCachePath>C:\Users\shai\AppData\Local\Temp\MobileHKS_refcache</ReferenceCachePath>
+  </PropertyGroup>
 </Project>
